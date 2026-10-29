@@ -1,0 +1,7 @@
+# 本地完整迁移归档与下载资料不是维护源
+/archive/
+/work/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
